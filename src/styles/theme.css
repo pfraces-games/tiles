@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.blue {
+  background-color: var(--blue);
+}
+
+.green {
+  background-color: var(--green);
+}
+
+.yellow {
+  background-color: var(--yellow);
+}
+
+.red {
+  background-color: var(--red);
+}

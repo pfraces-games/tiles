@@ -1,0 +1,11 @@
+{
+  "editor.rulers": [80],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "emmet.includeLanguages": { "javascript": "javascriptreact" },
+  "eslint.experimental.useFlatConfig": true
+}
